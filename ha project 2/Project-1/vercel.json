@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "buildCommand": "cd \"Klenny Project/project\" && npm install && npm run build",
+  "outputDirectory": "Klenny Project/project/dist",
+  "installCommand": "cd \"Klenny Project/project\" && npm install",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+} 

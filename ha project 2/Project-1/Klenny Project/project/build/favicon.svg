@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main chip body -->
+  <rect x="8" y="8" width="16" height="16" rx="2" fill="#7C3AED"/>
+  
+  <!-- Connection lines -->
+  <!-- Left side -->
+  <line x1="2" y1="12" x2="8" y2="12" stroke="#7C3AED" stroke-width="2"/>
+  <line x1="2" y1="20" x2="8" y2="20" stroke="#7C3AED" stroke-width="2"/>
+  <!-- Right side -->
+  <line x1="24" y1="12" x2="30" y2="12" stroke="#7C3AED" stroke-width="2"/>
+  <line x1="24" y1="20" x2="30" y2="20" stroke="#7C3AED" stroke-width="2"/>
+  <!-- Top side -->
+  <line x1="12" y1="2" x2="12" y2="8" stroke="#7C3AED" stroke-width="2"/>
+  <line x1="20" y1="2" x2="20" y2="8" stroke="#7C3AED" stroke-width="2"/>
+  <!-- Bottom side -->
+  <line x1="12" y1="24" x2="12" y2="30" stroke="#7C3AED" stroke-width="2"/>
+  <line x1="20" y1="24" x2="20" y2="30" stroke="#7C3AED" stroke-width="2"/>
+  
+  <!-- Inner details -->
+  <rect x="11" y="11" width="10" height="10" rx="1" stroke="white" stroke-width="1.5" fill="none"/>
+  <rect x="14" y="14" width="4" height="4" fill="white"/>
+</svg> 
